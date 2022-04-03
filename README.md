@@ -1,4 +1,4 @@
-# All Weather's Personal Theme 
+# All Weather Contracting's Personal WordPress Theme 
 A WordPress Theme built for All weather contracting, a construction company based out of Hampton Roads, Virginia. 
 
 # Technology Used
