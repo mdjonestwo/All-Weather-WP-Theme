@@ -1,0 +1,29 @@
+.careers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px 0;
+    height: 75vh;
+}
+
+.careers p{
+    font-size: 30px;
+    text-align: center;
+}
+
+
+@media (min-width: 768px) and (max-width: 991px){
+    .careers p{
+        font-size: 25px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+}
+
+@media (min-width: 1px) and (max-width: 575px){
+    .careers p{
+        font-size: 22px;
+    }
+}
